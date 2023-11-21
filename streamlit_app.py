@@ -6,8 +6,8 @@ st.markdown("<h1 style='text-align: center; color: red;'>MULTIPLE DISEASE PREDIC
 
 #load the picke file
 
-diabetes_model = pickle.load(open("/content/diabetes_model.sav","rb"))
-heart_disease_model = pickle.load(open("/content/heart_disease_model.sav","rb"))
+diabetes_model = pickle.load(open("diabetes_model.sav","rb"))
+heart_disease_model = pickle.load(open("heart_disease_model.sav","rb"))
 
 
 
