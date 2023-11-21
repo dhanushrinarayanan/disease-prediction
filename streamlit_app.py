@@ -1,6 +1,5 @@
 import pickle
 import streamlit as st
-from streamlit_option_menu import option_menu
 
 # tittle
 st.markdown("<h1 style='text-align: center; color: red;'>MULTIPLE DISEASE PREDICTION BY USING ML </h1>", unsafe_allow_html=True)
